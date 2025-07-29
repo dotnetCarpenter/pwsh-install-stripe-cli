@@ -1,0 +1,26 @@
+{
+	"Linux": {
+		"32": "",
+		"64": "",
+		"arm": ""
+	}
+}
+
+// # name
+// # ----
+// # stripe-linux-checksums.txt
+// # stripe-mac-checksums.txt
+// # stripe-windows-checksums.txt
+// # stripe_1.28.0_linux_amd64.deb
+// # stripe_1.28.0_linux_amd64.rpm
+// # stripe_1.28.0_linux_arm64.deb
+// # stripe_1.28.0_linux_arm64.rpm
+// # stripe_1.28.0_linux_arm64.tar.gz
+// # stripe_1.28.0_linux_x86_64.tar.gz
+// # stripe_1.28.0_mac-os_arm64.tar.gz
+// # stripe_1.28.0_mac-os_x86_64.tar.gz
+// # stripe_1.28.0_windows_i386.zip
+// # stripe_1.28.0_windows_x86_64.zip
+
+// better name
+// # stripe_1.28.0_linux_x64.tar.gz
